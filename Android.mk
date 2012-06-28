@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := ICEBlu
+LOCAL_PACKAGE_NAME := ICEBlue
 
 LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,sw600dp -x 10
 
